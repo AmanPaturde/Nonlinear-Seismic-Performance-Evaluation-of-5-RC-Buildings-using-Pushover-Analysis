@@ -37,7 +37,7 @@ Comparative seismic performance assessment of 5 reinforced concrete buildings us
 
 ## [Project Report: Nonlinear-Seismic-Performance-Evaluation-of-5-RC-Buildings-using-Pushover-Analysis.pdf](https://github.com/user-attachments/files/29926043/SAP2000.Project.2.pdf)
 
-<img width="1298" height="542" alt="image" src="https://github.com/user-attachments/assets/f3c4dec1-db27-4891-9997-69e13e928fed" />
+<img width="500" height="10" alt="image" src="https://github.com/user-attachments/assets/f3c4dec1-db27-4891-9997-69e13e928fed" />
 
 <img width="604" height="534" alt="image" src="https://github.com/user-attachments/assets/1cf02d32-0e93-47d1-91e8-789c723771dc" />
 
